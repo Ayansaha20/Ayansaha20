@@ -15,5 +15,4 @@ Other places you can find me
 🎤 [Follow me on Instagram](https://www.instagram.com/ayan1_2_/)
 
 
-| <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayansaha20&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> |
-| ------------- | ------------- |
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayansaha20&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />
