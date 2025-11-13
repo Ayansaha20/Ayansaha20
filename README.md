@@ -1,0 +1,19 @@
+### Hi there 👋
+
+Here are some ideas to get you started:
+
+- 🌱 I’m currently learning **Full Stack Dvelopment**.
+- 📫 How to reach me: <a href="mailto:ayansaha808@gmail.com">Let's get in touch!</a>
+- 💬 My Linkedin - [Check it Out!](https://linkedin.com/in/ayansaha23)
+
+Other places you can find me
+
+🎥 [Subscribe my Youtube](https://www.youtube.com/channel/UC_jGc2me2v_nNAwT2wbIMlw)
+
+🐣 [See my Tweet](https://twitter.com/Evils_Paradise)
+
+🎤 [Follow me on Instagram](https://www.instagram.com/ayan1_2_/)
+
+
+| <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayansaha20&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayansaha20&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
