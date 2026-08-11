@@ -15,4 +15,4 @@ Other places you can find me
 🎤 [Follow me on Instagram](https://www.instagram.com/ayan1_2_/)
 
 
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayansaha20&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&show=prs_merged,prs_merged_percentage" alt="Ayan's github stats" />
+<img src="https://ghstats.dev/api/card?username=Ayansaha20&theme=radical&border_radius=10" alt="GitHub Stats Card" />
