@@ -2,7 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning **Full Stack Dvelopment**.
+- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**.
+- 💻 I’m a MERN Stack Developer building web applications and APIs.
+- 🚀 Currently exploring AI Engineering, Python, Machine Learning, and LLMs.
 - 📫 How to reach me: <a href="mailto:ayansaha808@gmail.com">Let's get in touch!</a>
 - 💬 My Linkedin - [Check it Out!](https://linkedin.com/in/ayansaha23)
 
